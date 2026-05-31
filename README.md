@@ -45,8 +45,8 @@ python weather_app.py
 
 ```bash
 README.md
-Weather_app/
-    └── main.py
+Weather/
+    └── weather_app.py
 ```
 
 ---
